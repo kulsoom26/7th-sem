@@ -1,0 +1,22 @@
+C:\Users\cui\source\repos\Calculator1\obj\Debug\Calculator1.csproj.AssemblyReference.cache
+C:\Users\cui\source\repos\Calculator1\obj\Debug\Calculator1.csproj.SuggestedBindingRedirects.cache
+C:\Users\cui\source\repos\Calculator1\obj\Debug\Calculator1.Properties.Resources.resources
+C:\Users\cui\source\repos\Calculator1\obj\Debug\Calculator1.csproj.GenerateResource.cache
+C:\Users\cui\source\repos\Calculator1\obj\Debug\Calculator1.csproj.CoreCompileInputs.cache
+C:\Users\cui\source\repos\Calculator1\bin\Debug\Calculator1.exe.config
+C:\Users\cui\source\repos\Calculator1\bin\Debug\Calculator1.exe
+C:\Users\cui\source\repos\Calculator1\bin\Debug\Calculator1.pdb
+C:\Users\cui\source\repos\Calculator1\obj\Debug\Calculator1.Form1.resources
+C:\Users\cui\source\repos\Calculator1\obj\Debug\Calculator1.exe
+C:\Users\cui\source\repos\Calculator1\obj\Debug\Calculator1.pdb
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\Calculator1\bin\Debug\Calculator1.exe.config
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\Calculator1\bin\Debug\Calculator1.exe
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\Calculator1\bin\Debug\Calculator1.pdb
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\Calculator1\obj\Debug\Calculator1.csproj.AssemblyReference.cache
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\Calculator1\obj\Debug\Calculator1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\Calculator1\obj\Debug\Calculator1.Form1.resources
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\Calculator1\obj\Debug\Calculator1.Properties.Resources.resources
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\Calculator1\obj\Debug\Calculator1.csproj.GenerateResource.cache
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\Calculator1\obj\Debug\Calculator1.csproj.CoreCompileInputs.cache
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\Calculator1\obj\Debug\Calculator1.exe
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\Calculator1\obj\Debug\Calculator1.pdb

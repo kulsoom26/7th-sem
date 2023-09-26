@@ -1,0 +1,10 @@
+C:\Users\cui\source\repos\StackDataStructure\bin\Debug\StackDataStructure.exe.config
+C:\Users\cui\source\repos\StackDataStructure\bin\Debug\StackDataStructure.exe
+C:\Users\cui\source\repos\StackDataStructure\bin\Debug\StackDataStructure.pdb
+C:\Users\cui\source\repos\StackDataStructure\obj\Debug\StackDataStructure.csproj.AssemblyReference.cache
+C:\Users\cui\source\repos\StackDataStructure\obj\Debug\StackDataStructure.csproj.SuggestedBindingRedirects.cache
+C:\Users\cui\source\repos\StackDataStructure\obj\Debug\StackDataStructure.Properties.Resources.resources
+C:\Users\cui\source\repos\StackDataStructure\obj\Debug\StackDataStructure.csproj.GenerateResource.cache
+C:\Users\cui\source\repos\StackDataStructure\obj\Debug\StackDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\cui\source\repos\StackDataStructure\obj\Debug\StackDataStructure.exe
+C:\Users\cui\source\repos\StackDataStructure\obj\Debug\StackDataStructure.pdb

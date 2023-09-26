@@ -1,0 +1,22 @@
+C:\Users\cui\source\repos\dataGrid\bin\Debug\dataGrid.exe.config
+C:\Users\cui\source\repos\dataGrid\bin\Debug\dataGrid.exe
+C:\Users\cui\source\repos\dataGrid\bin\Debug\dataGrid.pdb
+C:\Users\cui\source\repos\dataGrid\obj\Debug\dataGrid.csproj.AssemblyReference.cache
+C:\Users\cui\source\repos\dataGrid\obj\Debug\dataGrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\cui\source\repos\dataGrid\obj\Debug\dataGrid.Form1.resources
+C:\Users\cui\source\repos\dataGrid\obj\Debug\dataGrid.Properties.Resources.resources
+C:\Users\cui\source\repos\dataGrid\obj\Debug\dataGrid.csproj.GenerateResource.cache
+C:\Users\cui\source\repos\dataGrid\obj\Debug\dataGrid.csproj.CoreCompileInputs.cache
+C:\Users\cui\source\repos\dataGrid\obj\Debug\dataGrid.exe
+C:\Users\cui\source\repos\dataGrid\obj\Debug\dataGrid.pdb
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\dataGrid\bin\Debug\dataGrid.exe.config
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\dataGrid\bin\Debug\dataGrid.exe
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\dataGrid\bin\Debug\dataGrid.pdb
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\dataGrid\obj\Debug\dataGrid.csproj.AssemblyReference.cache
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\dataGrid\obj\Debug\dataGrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\dataGrid\obj\Debug\dataGrid.Form1.resources
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\dataGrid\obj\Debug\dataGrid.Properties.Resources.resources
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\dataGrid\obj\Debug\dataGrid.csproj.GenerateResource.cache
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\dataGrid\obj\Debug\dataGrid.csproj.CoreCompileInputs.cache
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\dataGrid\obj\Debug\dataGrid.exe
+C:\Users\sa\Desktop\7th Sem\Compiler Construction\Lab\Lab 1\dataGrid\obj\Debug\dataGrid.pdb
